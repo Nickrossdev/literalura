@@ -26,7 +26,7 @@
 - **PostgreSQL** para almacenar los datos
 - **API de Gutendex** para la búsqueda de libros
 
-##Uso
+## Uso
 La aplicación te presenta un menú con las siguientes opciones:
 
 - **Añadir un nuevo libro a la biblioteca: Ingresa el nombre de un libro para buscarlo en la API de Gutendex y guardarlo en la base de datos.
@@ -35,7 +35,7 @@ La aplicación te presenta un menú con las siguientes opciones:
 - **Mostrar libros por idioma: Filtra y muestra los libros por idioma.
 - **Mostrar autores vivos en determinado año: Consulta los autores vivos en un año específico.
 
-##Tecnologías
+## Tecnologías
 - **Spring Boot: Framework para la creación de aplicaciones Java.
 - **PostgreSQL: Base de datos relacional para almacenar los libros y autores.
 - **Gutendex API: API para obtener información sobre libros de dominio público
